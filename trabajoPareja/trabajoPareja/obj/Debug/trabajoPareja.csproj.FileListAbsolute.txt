@@ -1,0 +1,7 @@
+C:\Users\Silvio Mejia\source\repos\trabajoPareja\trabajoPareja\bin\Debug\trabajoPareja.exe.config
+C:\Users\Silvio Mejia\source\repos\trabajoPareja\trabajoPareja\bin\Debug\trabajoPareja.exe
+C:\Users\Silvio Mejia\source\repos\trabajoPareja\trabajoPareja\bin\Debug\trabajoPareja.pdb
+C:\Users\Silvio Mejia\source\repos\trabajoPareja\trabajoPareja\obj\Debug\trabajoPareja.csproj.AssemblyReference.cache
+C:\Users\Silvio Mejia\source\repos\trabajoPareja\trabajoPareja\obj\Debug\trabajoPareja.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Mejia\source\repos\trabajoPareja\trabajoPareja\obj\Debug\trabajoPareja.exe
+C:\Users\Silvio Mejia\source\repos\trabajoPareja\trabajoPareja\obj\Debug\trabajoPareja.pdb
