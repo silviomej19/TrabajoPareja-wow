@@ -1,0 +1,7 @@
+C:\Users\Silvio Mejia\source\repos\EjemploBinariaBusqueda\EjemploBinariaBusqueda\obj\Debug\EjemploBinariaBusqueda.csproj.AssemblyReference.cache
+C:\Users\Silvio Mejia\source\repos\EjemploBinariaBusqueda\EjemploBinariaBusqueda\obj\Debug\EjemploBinariaBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Mejia\source\repos\EjemploBinariaBusqueda\EjemploBinariaBusqueda\bin\Debug\EjemploBinariaBusqueda.exe.config
+C:\Users\Silvio Mejia\source\repos\EjemploBinariaBusqueda\EjemploBinariaBusqueda\bin\Debug\EjemploBinariaBusqueda.exe
+C:\Users\Silvio Mejia\source\repos\EjemploBinariaBusqueda\EjemploBinariaBusqueda\bin\Debug\EjemploBinariaBusqueda.pdb
+C:\Users\Silvio Mejia\source\repos\EjemploBinariaBusqueda\EjemploBinariaBusqueda\obj\Debug\EjemploBinariaBusqueda.exe
+C:\Users\Silvio Mejia\source\repos\EjemploBinariaBusqueda\EjemploBinariaBusqueda\obj\Debug\EjemploBinariaBusqueda.pdb
