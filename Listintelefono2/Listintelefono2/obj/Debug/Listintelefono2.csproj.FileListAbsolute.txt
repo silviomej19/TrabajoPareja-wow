@@ -1,0 +1,7 @@
+C:\Users\johal\source\repos\Listintelefono2\Listintelefono2\bin\Debug\Listintelefono2.exe.config
+C:\Users\johal\source\repos\Listintelefono2\Listintelefono2\bin\Debug\Listintelefono2.exe
+C:\Users\johal\source\repos\Listintelefono2\Listintelefono2\bin\Debug\Listintelefono2.pdb
+C:\Users\johal\source\repos\Listintelefono2\Listintelefono2\obj\Debug\Listintelefono2.csproj.AssemblyReference.cache
+C:\Users\johal\source\repos\Listintelefono2\Listintelefono2\obj\Debug\Listintelefono2.csproj.CoreCompileInputs.cache
+C:\Users\johal\source\repos\Listintelefono2\Listintelefono2\obj\Debug\Listintelefono2.exe
+C:\Users\johal\source\repos\Listintelefono2\Listintelefono2\obj\Debug\Listintelefono2.pdb
